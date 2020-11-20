@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "EmanciAngular"
+  "defaultProject": "EmanciAngular",
+  "cli": {
+    "analytics": "32089b61-0bde-4f69-84a9-908b82338bcd"
+  }
 }
