@@ -10,6 +10,7 @@ import { Cards3Component } from './components/cards3/cards3.component';
 import { Cards4Component } from './components/cards4/cards4.component';
 import { Cards5Component } from './components/cards5/cards5.component';
 import { Cards6Component } from './components/cards6/cards6.component';
+import { Cards7Component } from './components/cards7/cards7.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { Cards6Component } from './components/cards6/cards6.component';
     Cards3Component,
     Cards4Component,
     Cards5Component,
-    Cards6Component
+    Cards6Component,
+    Cards7Component
   ],
   imports: [
     BrowserModule,
